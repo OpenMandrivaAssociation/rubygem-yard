@@ -58,3 +58,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/Rakefile
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Tue Dec 07 2010 Rémy Clouard <shikamaru@mandriva.org> 0.5.3-1mdv2011.0
++ Revision: 614566
+- import rubygem-yard
+
