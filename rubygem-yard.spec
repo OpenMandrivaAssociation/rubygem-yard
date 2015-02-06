@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.5.3
-Release:    %mkrel 1
+Release:    2
 Summary:    Documentation tool for consistent and usable documentation in Ruby
 Group:      Development/Ruby
 License:    MIT
