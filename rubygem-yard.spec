@@ -6,7 +6,7 @@ Release:    2
 Summary:    Documentation tool for consistent and usable documentation in Ruby
 Group:      Development/Ruby
 License:    MIT
-URL:        http://yardoc.org
+URL:        https://yardoc.org
 Source0:    %{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
